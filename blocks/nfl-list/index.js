@@ -52,7 +52,7 @@
 			return el(
 				'p',
 				{ className: props.className },
-				__( 'Hello from the editor!', 'acme-nfl' )
+				__( 'This is the NFL List block', 'acme-nfl' )
 			);
 		},
 
