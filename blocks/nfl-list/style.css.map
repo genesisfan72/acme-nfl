@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAWI,wDAA4B;EAO1B,gBAAgB,EAAE,IAAI;EACtB,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,SAAS;EAClB,SAAS,EAAE,GAAG;;AC4NZ,iDAAqC;EDtOzC,wDAA4B;IAExB,SAAS,EAAE,IAAI;;EACf,8DAAM;IACJ,SAAS,EAAE,IAAI",
+"sources": ["source/sass/nfl-list.scss","source/sass/_mq.scss"],
+"names": [],
+"file": "style.css"
+}

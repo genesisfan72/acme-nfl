@@ -1,0 +1,16 @@
+#site-content .entry-content .wp-block-acme-nfl-nfl-list {
+  background-color: #fff;
+  color: #000;
+  padding: 1rem 2rem;
+  max-width: 80%;
+}
+@media (min-width: 20em) and (max-width: 46.24em) {
+  #site-content .entry-content .wp-block-acme-nfl-nfl-list {
+    max-width: 100%;
+  }
+  #site-content .entry-content .wp-block-acme-nfl-nfl-list table {
+    font-size: 11px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
